@@ -1,0 +1,5 @@
+#忽略index.css这个文件
+index.css
+
+#忽略test目录下的所有文件  直接让git忽略了这两个文件夹和文件
+test/
